@@ -1,9 +1,6 @@
-Here's how you can structure a README for the described guided course:
-
-```markdown
 # Predictive Model Development for Diabetic Patient Outcomes
 
-This guided course, developed by Edunet Foundation under AICTE, focuses on developing a robust predictive model for diabetic patient outcomes using various machine learning algorithms.
+This guided course, developed by the Edunet Foundation under AICTE, focuses on creating a robust predictive model for diabetic patient outcomes using various machine-learning algorithms.
 
 ## Overview
 In this project, we aim to leverage the capabilities of Jupyter Notebook and Python, along with essential libraries like NumPy, Pandas, Matplotlib, and Seaborn, to explore and develop predictive models for diabetic patient outcomes.
@@ -42,11 +39,11 @@ In this project, we aim to leverage the capabilities of Jupyter Notebook and Pyt
 
 ## Prerequisites
 - Basic understanding of Python programming language.
-- Familiarity with Jupyter Notebook environment.
+- Familiarity with the Jupyter Notebook environment.
 - Understanding of fundamental concepts of machine learning.
 
 ## Requirements
-- Python 3.x
+- Python 3.11
 - Jupyter Notebook
 - NumPy
 - Pandas
